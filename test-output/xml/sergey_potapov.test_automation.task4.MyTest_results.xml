@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test in Chrome#2"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.985">
+  <properties />
+  
+  
+            <testcase name="toPrinter" time="0.004" classname="sergey_potapov.test_automation.task4.MyTest" />
+                <testcase name="AddProductTest" time="22.981" classname="sergey_potapov.test_automation.task4.MyTest" />
+      
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test in Chrome#1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.433">
+  <properties />
+  
+  
+            <testcase name="AddProductTest" time="23.433" classname="sergey_potapov.test_automation.task4.ProductAdditionToBasketTest" />
+      
+</testsuite>

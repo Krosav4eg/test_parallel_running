@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ProductAdditionToBasketTestSuite" duration-ms="30063" started-at="2017-04-01T12:57:28Z" finished-at="2017-04-01T12:57:58Z">
+    <groups>
+    </groups>
+    <test name="Test in Chrome#1" duration-ms="29462" started-at="2017-04-01T12:57:28Z" finished-at="2017-04-01T12:57:57Z">
+      <class name="sergey_potapov.test_automation.task4.ProductAdditionToBasketTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sergey_potapov.test_automation.task4.ProductAdditionToBasketTest@7f560810]" name="setUp" is-config="true" duration-ms="4842" started-at="2017-04-01T15:57:28Z" finished-at="2017-04-01T15:57:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddProductTest()[pri:0, instance:sergey_potapov.test_automation.task4.ProductAdditionToBasketTest@7f560810]" name="AddProductTest" duration-ms="23433" started-at="2017-04-01T15:57:32Z" finished-at="2017-04-01T15:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sergey_potapov.test_automation.task4.ProductAdditionToBasketTest@7f560810]" name="close" is-config="true" duration-ms="1174" started-at="2017-04-01T15:57:56Z" finished-at="2017-04-01T15:57:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- sergey_potapov.test_automation.task4.ProductAdditionToBasketTest -->
+    </test> <!-- Test in Chrome#1 -->
+    <test name="Test in Chrome#2" duration-ms="30063" started-at="2017-04-01T12:57:28Z" finished-at="2017-04-01T12:57:58Z">
+      <class name="sergey_potapov.test_automation.task4.MyTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sergey_potapov.test_automation.task4.MyTest@3c756e4d]" name="setUp" is-config="true" duration-ms="5463" started-at="2017-04-01T15:57:28Z" finished-at="2017-04-01T15:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddProductTest()[pri:0, instance:sergey_potapov.test_automation.task4.MyTest@3c756e4d]" name="AddProductTest" duration-ms="22981" started-at="2017-04-01T15:57:33Z" finished-at="2017-04-01T15:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductTest -->
+        <test-method status="PASS" signature="toPrinter()[pri:0, instance:sergey_potapov.test_automation.task4.MyTest@3c756e4d]" name="toPrinter" duration-ms="4" started-at="2017-04-01T15:57:56Z" finished-at="2017-04-01T15:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toPrinter -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sergey_potapov.test_automation.task4.MyTest@3c756e4d]" name="close" is-config="true" duration-ms="1611" started-at="2017-04-01T15:57:56Z" finished-at="2017-04-01T15:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- sergey_potapov.test_automation.task4.MyTest -->
+    </test> <!-- Test in Chrome#2 -->
+  </suite> <!-- ProductAdditionToBasketTestSuite -->
+</testng-results>
