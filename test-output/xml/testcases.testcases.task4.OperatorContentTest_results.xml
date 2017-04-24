@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test in Chrome#1"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="26.371">
+  <properties />
+  
+  
+            <testcase name="themeRubricPageTest" time="2.960" classname="OperatorContentTest" />
+                <testcase name="authorizationOperatorContentTest" time="14.104" classname="OperatorContentTest" />
+                <testcase name="reportPageTest" time="0.973" classname="OperatorContentTest" />
+                <testcase name="mainPageTest" time="3.864" classname="OperatorContentTest" />
+                <testcase name="publishPageTest" time="4.470" classname="OperatorContentTest" />
+      
+</testsuite>

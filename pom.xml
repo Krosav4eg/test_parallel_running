@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.9.10</version>
+            <version>6.8</version>
             <scope>test</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
@@ -26,6 +26,12 @@
             <groupId>org.uncommons</groupId>
             <artifactId>reportng</artifactId>
             <version>1.1.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
         </dependency>
 
         <dependency>
@@ -53,7 +59,7 @@
                 <version>2.19</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resourses/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <skipTests>false</skipTests>
                 </configuration>

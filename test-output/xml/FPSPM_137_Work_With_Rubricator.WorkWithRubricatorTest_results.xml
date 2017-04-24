@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WorkWithRubricatorTest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.324">
+  <properties />
+  
+  
+            <testcase name="newRubricWasSuccessfullyDeletedTest" time="0.101" classname="fpspm137_WorkWithRubricatorTestSuit.WorkWithRubricatorTest" />
+                <testcase name="deleteNewRubricDeleteTest" time="0.699" classname="fpspm137_WorkWithRubricatorTestSuit.WorkWithRubricatorTest" />
+                <testcase name="createNewThemeRubricTest" time="5.687" classname="fpspm137_WorkWithRubricatorTestSuit.WorkWithRubricatorTest" />
+                <testcase name="authorizationOperatorContentTest" time="16.837" classname="fpspm137_WorkWithRubricatorTestSuit.WorkWithRubricatorTest" />
+      
+</testsuite>

@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="ProductAdditionToBasketTestSuite" parallel="tests" thread-count="2">
+<suite name="RoleRightsTestSuite" parallel="tests" thread-count="3">
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
         <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
@@ -8,16 +8,21 @@
     <test name="Test in Chrome#1" verbose="1" >
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="sergey_potapov.test_automation.task4.ProductAdditionToBasketTest"/>
+            <class name="roleRightsTestSuite.AnaliticTest"/>
         </classes>
     </test>
-    <test name="Test in Chrome#2" verbose="1" >
+    <test name="Test in Chrome#2" verbose="2" >
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="sergey_potapov.test_automation.task4.MyTest"/>
+            <class name="roleRightsTestSuite.CordinatorTest"/>
         </classes>
     </test>
-
+    <test name="Test in Chrome#3" verbose="2" >
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="roleRightsTestSuite.OperatorContentTest"/>
+        </classes>
+    </test>
 
 
 </suite>

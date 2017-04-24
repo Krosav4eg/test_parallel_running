@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test in Chrome#3"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="29.414">
+  <properties />
+  
+  
+            <testcase name="authorizationCordinatorTest" time="24.325" classname="CordinatorTest" />
+                <testcase name="manageOfAccessPageTest" time="3.278" classname="CordinatorTest" />
+                <testcase name="userTemplatePageTest" time="0.794" classname="CordinatorTest" />
+                <testcase name="reportPageTest" time="1.017" classname="CordinatorTest" />
+      
+</testsuite>
